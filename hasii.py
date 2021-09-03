@@ -58,12 +58,10 @@ c = "\033[1;32m"
 c2 = "\033[1;97m"
 c3 = "\033[1;97m"
 logo ="""
-\033[1;37mdb   d8b   db  .d8b.  db   db d888888b d8888b. 
-\033[1;37m88   I8I   88 d8' `8b 88   88   `88'   88  `8D 
-\033[1;34m88   I8I   88 88ooo88 88ooo88    88    88   88 
-\033[1;34mY8   I8I   88 88~~~88 88~~~88    88    88   88 
-\033[1;37m`8b d8'8b d8' 88   88 88   88   .88.   88  .8D 
-\033[1;37m `8b8' `8d8'  YP   YP YP   YP Y888888P Y8888D' 
+            Malik Hassan
+            Malik Hassan
+            Malik Hassan
+
 \033[1;37m-----------------------------------------------                          
 \033[1;36m(*) Author :\033[1;37m Malik Hassan
 \033[1;36m(*) Github :\033[1;37m https://github.com/MalikHassan
